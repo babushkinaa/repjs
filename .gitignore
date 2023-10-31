@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-.idea
-=======
 .idea
 .prettierrc
 .gitignore
->>>>>>> origin/lesson02
+/node_modules/
